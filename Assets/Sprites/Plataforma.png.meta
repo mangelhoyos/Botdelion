@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: babf2f69870d48e45a931a708ca355ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5583391356368031582
+    second: intento final_Mesa de trabajo 1_0
+  - first:
+      213: -2891512077836834952
+    second: intento final_Mesa de trabajo 1_1
+  - first:
+      213: -2767018190928473119
+    second: intento final_Mesa de trabajo 1_2
+  - first:
+      213: -3234156091757314707
+    second: intento final_Mesa de trabajo 1_3
+  - first:
+      213: -7367612329288174537
+    second: intento final_Mesa de trabajo 1_4
+  - first:
+      213: -6285601995634377882
+    second: intento final_Mesa de trabajo 1_5
+  - first:
+      213: -1460234817017267505
+    second: intento final_Mesa de trabajo 1_6
+  - first:
+      213: 2128000249025387677
+    second: intento final_Mesa de trabajo 1_7
+  - first:
+      213: -6295955458889019094
+    second: intento final_Mesa de trabajo 1_8
+  - first:
+      213: 3920074296019008758
+    second: intento final_Mesa de trabajo 1_9
+  - first:
+      213: 4697456085877603500
+    second: intento final_Mesa de trabajo 1_10
+  - first:
+      213: 397480893696215737
+    second: intento final_Mesa de trabajo 1_11
+  - first:
+      213: 2508687185590656096
+    second: intento final_Mesa de trabajo 1_12
+  - first:
+      213: 2495966995335887582
+    second: intento final_Mesa de trabajo 1_13
+  - first:
+      213: 6485102252552690131
+    second: intento final_Mesa de trabajo 1_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_0
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 3740
+        width: 575
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a072b9b42fc382b0800000000000000
+      internalID: -5583391356368031582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_1
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 3746
+        width: 228
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a8c8c5194fd7d0800000000000000
+      internalID: -2891512077836834952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_2
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 3750
+        width: 878
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e31aaa9d939999d0800000000000000
+      internalID: -2767018190928473119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_3
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 2829
+        width: 1134
+        height: 1253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db3aa7b28fd13d0800000000000000
+      internalID: -3234156091757314707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3101
+        width: 1453
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7347dfd2f9bf0c990800000000000000
+      internalID: -7367612329288174537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_5
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 2847
+        width: 832
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf9ba994e05c8a0800000000000000
+      internalID: -6285601995634377882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2590
+        width: 1113
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca370bab243cbbe0800000000000000
+      internalID: -1460234817017267505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_7
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2074
+        width: 1853
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cd91da3fc288d10800000000000000
+      internalID: 2128000249025387677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 167
+        width: 462
+        height: 2248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211d371ed540a8a0800000000000000
+      internalID: -6295955458889019094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_9
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2093
+        width: 399
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc3a538dc6e66630800000000000000
+      internalID: 3920074296019008758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_10
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1998
+        width: 399
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac3bb20c67b03140800000000000000
+      internalID: 4697456085877603500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_11
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1988
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba84c154c2248500800000000000000
+      internalID: 397480893696215737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_12
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1892
+        width: 399
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c94b524b5a0d220800000000000000
+      internalID: 2508687185590656096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_13
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 102
+        width: 1957
+        height: 1873
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda381012c473a220800000000000000
+      internalID: 2495966995335887582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intento final_Mesa de trabajo 1_14
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1790
+        width: 399
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d91d7f9326bff950800000000000000
+      internalID: 6485102252552690131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 5e274a65e68cfd845934dd7d3fa31c38, type: 3}
+      name: _Emission
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
